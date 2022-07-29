@@ -1,0 +1,25 @@
+p {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: space-evenly;
+  background: #33b5e5;
+  margin: 0px;
+  color: white;
+  font-size: 30px;
+  /* padding: 20px 200px 20px 200px; */
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: left;
+  background: #33b5e5;
+  padding: 20px 200px 20px 200px;
+}
+
+a {
+  color: #ffffff;
+  font-weight: bold;
+}
